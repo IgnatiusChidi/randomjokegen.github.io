@@ -86,14 +86,14 @@ section{
 
 @media all and (max-width: 768px) {
     section{
-        width: 80vw;
+        width: 90vw;
         height: 80vh;
-        font-size: 25px;
+        font-size: 30px;
     }
     
     #textDiv{
-        width: 70vw;
-        height: 27vh;
+        width: 80vw;
+        height: 25vh;
     }
     
     #genBtn{
@@ -103,8 +103,8 @@ section{
     .shape:nth-child(1){
         height: 35vw;
         width: 35vw;
-        right: 3vw;
-        top: 3vh;
+        right: 6vw;
+        top: 15vh;
     }
     
     .shape:nth-child(2){
