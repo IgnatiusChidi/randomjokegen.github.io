@@ -5,7 +5,7 @@ body{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    backgrnd: linear-gradient(45deg, #7209B7, #F72585);
+    background: linear-gradient(45deg, #7209B7, #F72585);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
